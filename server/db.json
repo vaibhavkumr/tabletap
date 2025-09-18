@@ -1,0 +1,12 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Test Cafe",
+      "floorPlan": { "tables": [], "icons": { "table": "table.png", "chair": "chair.png" } },
+      "menu": [{ "name": "Nachos", "price": 5, "category": "appetizer" }]
+    }
+  ],
+  "reservations": [],
+  "users": []
+}
